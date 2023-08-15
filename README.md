@@ -1,1 +1,2 @@
 # Project1
+This script utilizes OpenCV to capture video from the default camera and detects motion within the video frames. It calculates the difference between the initial frame and subsequent frames, and if the pixel value change exceeds a certain threshold, it highlights the moving regions with green rectangles. The code provides a simple way to monitor motion activity using a webcam, aiding in surveillance and basic motion detection applications.
